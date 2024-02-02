@@ -1,1 +1,0 @@
-hi this is day 3 sql assignment.
